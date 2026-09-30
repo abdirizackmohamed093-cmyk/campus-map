@@ -1,0 +1,677 @@
+[
+  {
+    "id": "node-h-north-w",
+    "name": "Block H-North West Walkway",
+    "x": 93,
+    "y": 165,
+    "sheet": 1,
+    "kind": "outdoor",
+    "connections": ["node-h-north-e", "node-h-mid1-w"]
+  },
+  {
+    "id": "node-h-north-e",
+    "name": "Block H-North East Walkway",
+    "x": 209,
+    "y": 165,
+    "sheet": 1,
+    "kind": "outdoor",
+    "connections": ["node-h-north-w", "node-h-spine-1", "node-g-west"]
+  },
+  {
+    "id": "node-h-mid1-w",
+    "name": "H10–H9 Corridor",
+    "x": 93,
+    "y": 305,
+    "sheet": 1,
+    "kind": "outdoor",
+    "connections": ["node-h-north-w", "node-h-mid1-e", "node-h-mid2"]
+  },
+  {
+    "id": "node-h-mid1-e",
+    "name": "H8–H7 Corridor",
+    "x": 209,
+    "y": 305,
+    "sheet": 1,
+    "kind": "outdoor",
+    "connections": ["node-h-mid1-w", "node-h-spine-2"]
+  },
+  {
+    "id": "node-h-mid2",
+    "name": "H5–H6 Courtyard Path",
+    "x": 135,
+    "y": 445,
+    "sheet": 1,
+    "kind": "outdoor",
+    "connections": ["node-h-mid1-w", "node-h-south-w", "node-h-south-e", "node-h-spine-3"]
+  },
+  {
+    "id": "node-h-south-w",
+    "name": "H1–H2 Walkway",
+    "x": 91,
+    "y": 542,
+    "sheet": 1,
+    "kind": "outdoor",
+    "connections": ["node-h-mid2", "node-h-south-e"]
+  },
+  {
+    "id": "node-h-south-e",
+    "name": "H3–H4 & Homestead North Path",
+    "x": 215,
+    "y": 542,
+    "sheet": 1,
+    "kind": "outdoor",
+    "connections": ["node-h-south-w", "node-h-mid2", "node-h-spine-3", "node-admin-north"]
+  },
+  {
+    "id": "node-h-spine-1",
+    "name": "West Academic Spine (North)",
+    "x": 315,
+    "y": 165,
+    "sheet": 1,
+    "kind": "junction",
+    "connections": ["node-h-north-e", "node-g-west", "node-h-spine-2"]
+  },
+  {
+    "id": "node-h-spine-2",
+    "name": "West Academic Spine (Mid)",
+    "x": 315,
+    "y": 305,
+    "sheet": 1,
+    "kind": "junction",
+    "connections": ["node-h-spine-1", "node-h-mid1-e", "node-csa-west", "node-h-spine-3"]
+  },
+  {
+    "id": "node-h-spine-3",
+    "name": "West Academic Spine (Hospitality Junction)",
+    "x": 315,
+    "y": 445,
+    "sheet": 1,
+    "kind": "junction",
+    "connections": ["node-h-spine-2", "node-h-mid2", "node-h-south-e", "node-hosp-west"]
+  },
+  {
+    "id": "node-hosp-west",
+    "name": "Hospitality West Path",
+    "x": 328,
+    "y": 545,
+    "sheet": 1,
+    "kind": "outdoor",
+    "connections": ["node-h-spine-3", "node-admin-north", "node-hosp-east"]
+  },
+  {
+    "id": "node-admin-north",
+    "name": "Assessment & Procurement Walk",
+    "x": 328,
+    "y": 805,
+    "sheet": 1,
+    "kind": "outdoor",
+    "connections": ["node-hosp-west", "node-h-south-e", "node-admin-south", "node-admin-east"]
+  },
+  {
+    "id": "node-admin-south",
+    "name": "Registrar & Customer Care Plaza",
+    "x": 240,
+    "y": 900,
+    "sheet": 1,
+    "kind": "outdoor",
+    "connections": ["node-admin-north", "node-admin-east"]
+  },
+  {
+    "id": "node-admin-east",
+    "name": "Board Room Walkway",
+    "x": 490,
+    "y": 850,
+    "sheet": 1,
+    "kind": "outdoor",
+    "connections": ["node-admin-north", "node-admin-south", "node-d-west", "node-gate-link-north"]
+  },
+  {
+    "id": "node-g-west",
+    "name": "Block G West Path",
+    "x": 450,
+    "y": 158,
+    "sheet": 1,
+    "kind": "outdoor",
+    "connections": ["node-h-spine-1", "node-h-north-e", "node-g-east", "node-csa-west"]
+  },
+  {
+    "id": "node-g-east",
+    "name": "Block G East Path",
+    "x": 640,
+    "y": 158,
+    "sheet": 1,
+    "kind": "outdoor",
+    "connections": ["node-g-west", "node-central-north", "node-csa-east"]
+  },
+  {
+    "id": "node-csa-west",
+    "name": "Block C$A West Path",
+    "x": 440,
+    "y": 290,
+    "sheet": 1,
+    "kind": "outdoor",
+    "connections": ["node-h-spine-2", "node-g-west", "node-csa-east", "node-hosp-north"]
+  },
+  {
+    "id": "node-csa-east",
+    "name": "Block C$A East Path",
+    "x": 635,
+    "y": 290,
+    "sheet": 1,
+    "kind": "outdoor",
+    "connections": ["node-csa-west", "node-g-east", "node-hosp-north", "node-ba-west-entry"]
+  },
+  {
+    "id": "node-hosp-north",
+    "name": "Hospitality North Walkway",
+    "x": 540,
+    "y": 405,
+    "sheet": 1,
+    "kind": "outdoor",
+    "connections": ["node-csa-west", "node-csa-east", "node-hosp-east"]
+  },
+  {
+    "id": "node-hosp-east",
+    "name": "HOD Hospitality & Field West Junction",
+    "x": 635,
+    "y": 555,
+    "sheet": 1,
+    "kind": "junction",
+    "connections": ["node-hosp-north", "node-hosp-west", "node-field-west", "node-field-north"]
+  },
+  {
+    "id": "node-central-north",
+    "name": "North Central Plaza",
+    "x": 800,
+    "y": 158,
+    "sheet": 1,
+    "kind": "junction",
+    "connections": ["node-g-east", "node-mosque", "node-ba-west-entry"]
+  },
+  {
+    "id": "node-mosque",
+    "name": "Mosque Forecourt",
+    "x": 965,
+    "y": 128,
+    "sheet": 1,
+    "kind": "outdoor",
+    "connections": ["node-central-north", "node-f-west", "node-ba-c1-m1"]
+  },
+  {
+    "id": "node-f-west",
+    "name": "Block F West Walkway",
+    "x": 1120,
+    "y": 128,
+    "sheet": 1,
+    "kind": "outdoor",
+    "connections": ["node-mosque", "node-f-east", "node-ba-c1-m2"]
+  },
+  {
+    "id": "node-f-east",
+    "name": "Block F East Walkway",
+    "x": 1285,
+    "y": 128,
+    "sheet": 1,
+    "kind": "outdoor",
+    "connections": ["node-f-west", "node-ba-c1-e1"]
+  },
+  {
+    "id": "node-ba-west-entry",
+    "name": "Building A West Entrance",
+    "x": 815,
+    "y": 275,
+    "sheet": 1,
+    "kind": "junction",
+    "connections": ["node-central-north", "node-csa-east", "node-ba-c1-w", "node-ba-c2-w", "node-field-north"]
+  },
+  {
+    "id": "node-ba-c1-w",
+    "name": "Building A North Corridor (West)",
+    "x": 900,
+    "y": 225,
+    "sheet": 1,
+    "kind": "corridor",
+    "connections": ["node-ba-west-entry", "node-ba-c1-m1", "node-ba-c2-w"]
+  },
+  {
+    "id": "node-ba-c1-m1",
+    "name": "Building A North Corridor (ICT Lab 1)",
+    "x": 1020,
+    "y": 225,
+    "sheet": 1,
+    "kind": "corridor",
+    "connections": ["node-ba-c1-w", "node-ba-c1-m2", "node-ba-c2-m1", "node-mosque"]
+  },
+  {
+    "id": "node-ba-c1-m2",
+    "name": "Building A North Corridor (ICT Lab 2)",
+    "x": 1145,
+    "y": 225,
+    "sheet": 1,
+    "kind": "corridor",
+    "connections": ["node-ba-c1-m1", "node-ba-c1-e1", "node-ba-c2-m2", "node-f-west"]
+  },
+  {
+    "id": "node-ba-c1-e1",
+    "name": "Building A North Corridor (Library / A9)",
+    "x": 1242,
+    "y": 225,
+    "sheet": 1,
+    "kind": "corridor",
+    "connections": ["node-ba-c1-m2", "node-ba-c1-e2", "node-ba-c2-e1", "node-f-east"]
+  },
+  {
+    "id": "node-ba-c1-e2",
+    "name": "Building A North Corridor (East / A10)",
+    "x": 1350,
+    "y": 225,
+    "sheet": 1,
+    "kind": "corridor",
+    "connections": ["node-ba-c1-e1", "node-ba-c2-e2"]
+  },
+  {
+    "id": "node-ba-c2-w",
+    "name": "Building A South Corridor (Toilets)",
+    "x": 900,
+    "y": 317,
+    "sheet": 1,
+    "kind": "corridor",
+    "connections": ["node-ba-west-entry", "node-ba-c1-w", "node-ba-c2-m1"]
+  },
+  {
+    "id": "node-ba-c2-m1",
+    "name": "Building A South Corridor (Clothing Tech)",
+    "x": 1020,
+    "y": 317,
+    "sheet": 1,
+    "kind": "corridor",
+    "connections": ["node-ba-c2-w", "node-ba-c1-m1", "node-ba-c2-m2", "node-ba-south-w"]
+  },
+  {
+    "id": "node-ba-c2-m2",
+    "name": "Building A South Corridor (Center)",
+    "x": 1145,
+    "y": 317,
+    "sheet": 1,
+    "kind": "corridor",
+    "connections": ["node-ba-c2-m1", "node-ba-c1-m2", "node-ba-c2-e1", "node-ba-south-m"]
+  },
+  {
+    "id": "node-ba-c2-e1",
+    "name": "Building A South Corridor (Library South)",
+    "x": 1242,
+    "y": 317,
+    "sheet": 1,
+    "kind": "corridor",
+    "connections": ["node-ba-c2-m2", "node-ba-c1-e1", "node-ba-c2-e2", "node-ba-south-e"]
+  },
+  {
+    "id": "node-ba-c2-e2",
+    "name": "Building A South Corridor (East Exit)",
+    "x": 1350,
+    "y": 317,
+    "sheet": 1,
+    "kind": "corridor",
+    "connections": ["node-ba-c2-e1", "node-ba-c1-e2", "node-ba-south-e"]
+  },
+  {
+    "id": "node-ba-south-w",
+    "name": "Building A South-West Courtyard",
+    "x": 980,
+    "y": 435,
+    "sheet": 1,
+    "kind": "outdoor",
+    "connections": ["node-ba-c2-m1", "node-ba-south-m", "node-carpentry-w", "node-field-north"]
+  },
+  {
+    "id": "node-ba-south-m",
+    "name": "Building A South-Center Courtyard",
+    "x": 1145,
+    "y": 435,
+    "sheet": 1,
+    "kind": "outdoor",
+    "connections": ["node-ba-c2-m2", "node-ba-south-w", "node-ba-south-e", "node-carpentry-w"]
+  },
+  {
+    "id": "node-ba-south-e",
+    "name": "Building A South-East Courtyard",
+    "x": 1280,
+    "y": 435,
+    "sheet": 1,
+    "kind": "outdoor",
+    "connections": ["node-ba-c2-e1", "node-ba-c2-e2", "node-ba-south-m", "node-carpentry-e"]
+  },
+  {
+    "id": "node-carpentry-w",
+    "name": "Carpentry Workshop West Path",
+    "x": 945,
+    "y": 522,
+    "sheet": 1,
+    "kind": "outdoor",
+    "connections": ["node-ba-south-w", "node-ba-south-m", "node-field-north", "node-field-east", "node-carpentry-e"]
+  },
+  {
+    "id": "node-carpentry-e",
+    "name": "Carpentry Workshop East Path",
+    "x": 1375,
+    "y": 522,
+    "sheet": 1,
+    "kind": "outdoor",
+    "connections": ["node-ba-south-e", "node-carpentry-w", "node-field-east"]
+  },
+  {
+    "id": "node-field-north",
+    "name": "Main Field North Path",
+    "x": 850,
+    "y": 555,
+    "sheet": 1,
+    "kind": "outdoor",
+    "connections": ["node-hosp-east", "node-ba-west-entry", "node-ba-south-w", "node-carpentry-w", "node-field-west", "node-field-east"]
+  },
+  {
+    "id": "node-field-west",
+    "name": "Main Field West Path",
+    "x": 645,
+    "y": 660,
+    "sheet": 1,
+    "kind": "outdoor",
+    "connections": ["node-hosp-east", "node-field-north", "node-d-west", "node-field-south"]
+  },
+  {
+    "id": "node-field-east",
+    "name": "Kitchen & Dining Hall Walkway",
+    "x": 1074,
+    "y": 660,
+    "sheet": 1,
+    "kind": "outdoor",
+    "connections": ["node-field-north", "node-carpentry-w", "node-carpentry-e", "node-field-south", "node-dk-corridor-e"]
+  },
+  {
+    "id": "node-field-south",
+    "name": "Main Field South Perimeter",
+    "x": 860,
+    "y": 748,
+    "sheet": 1,
+    "kind": "outdoor",
+    "connections": ["node-field-west", "node-field-east", "node-dk-corridor-m"]
+  },
+  {
+    "id": "node-d-west",
+    "name": "Block D West Junction",
+    "x": 635,
+    "y": 850,
+    "sheet": 1,
+    "kind": "junction",
+    "connections": ["node-field-west", "node-admin-east", "node-dk-corridor-w", "node-p2-field-west"]
+  },
+  {
+    "id": "node-dk-corridor-w",
+    "name": "D-Block / Pay Point Corridor (West)",
+    "x": 715,
+    "y": 850,
+    "sheet": 1,
+    "kind": "corridor",
+    "connections": ["node-d-west", "node-dk-corridor-m"]
+  },
+  {
+    "id": "node-dk-corridor-m",
+    "name": "D-Block / Common Room Corridor (Center)",
+    "x": 865,
+    "y": 850,
+    "sheet": 1,
+    "kind": "corridor",
+    "connections": ["node-dk-corridor-w", "node-dk-corridor-e", "node-field-south", "node-campus-link-center"]
+  },
+  {
+    "id": "node-dk-corridor-e",
+    "name": "D-Block / K1–K3 Corridor (East)",
+    "x": 1040,
+    "y": 850,
+    "sheet": 1,
+    "kind": "corridor",
+    "connections": ["node-dk-corridor-m", "node-field-east", "node-p2-field-east"]
+  },
+  {
+    "id": "node-gate-link-north",
+    "name": "Main Gate Approach Road (North)",
+    "x": 280,
+    "y": 1090,
+    "sheet": 2,
+    "kind": "junction",
+    "connections": ["node-admin-east", "node-gate-north", "node-p2-field-west"]
+  },
+  {
+    "id": "node-campus-link-center",
+    "name": "Central Campus Connector",
+    "x": 865,
+    "y": 1090,
+    "sheet": 2,
+    "kind": "junction",
+    "connections": ["node-dk-corridor-m", "node-p2-field-west", "node-p2-field-east"]
+  },
+  {
+    "id": "node-gate-north",
+    "name": "ILO Office Walkway",
+    "x": 225,
+    "y": 1310,
+    "sheet": 2,
+    "kind": "outdoor",
+    "connections": ["node-gate-link-north", "node-entrance", "node-p2-field-west"]
+  },
+  {
+    "id": "node-entrance",
+    "name": "Main Gate Entrance",
+    "x": 225,
+    "y": 1383,
+    "sheet": 2,
+    "kind": "gate",
+    "connections": ["node-gate-north", "node-exit", "node-p2-field-west", "node-bb-west-approach"]
+  },
+  {
+    "id": "node-exit",
+    "name": "Main Gate Exit Lane",
+    "x": 225,
+    "y": 1473,
+    "sheet": 2,
+    "kind": "gate",
+    "connections": ["node-entrance", "node-bb-west-approach"]
+  },
+  {
+    "id": "node-p2-field-west",
+    "name": "Field West Path (South Campus)",
+    "x": 415,
+    "y": 1383,
+    "sheet": 2,
+    "kind": "outdoor",
+    "connections": ["node-d-west", "node-gate-link-north", "node-campus-link-center", "node-gate-north", "node-entrance", "node-p2-field-south"]
+  },
+  {
+    "id": "node-p2-field-south",
+    "name": "Field South Promenade",
+    "x": 815,
+    "y": 1572,
+    "sheet": 2,
+    "kind": "outdoor",
+    "connections": ["node-p2-field-west", "node-p2-field-east", "node-bb-west-approach", "node-bb-c1-m1", "node-bb-c1-e"]
+  },
+  {
+    "id": "node-p2-field-east",
+    "name": "Field East Path (Maintenance Side)",
+    "x": 1225,
+    "y": 1383,
+    "sheet": 2,
+    "kind": "outdoor",
+    "connections": ["node-dk-corridor-e", "node-campus-link-center", "node-p2-field-south", "node-maint-top", "node-maint-mid", "node-maint-disp", "node-maint-bot"]
+  },
+  {
+    "id": "node-maint-top",
+    "name": "Power & HOD Repair Walkway",
+    "x": 1265,
+    "y": 1215,
+    "sheet": 2,
+    "kind": "corridor",
+    "connections": ["node-p2-field-east", "node-maint-mid"]
+  },
+  {
+    "id": "node-maint-mid",
+    "name": "Mutesy Office Corridor",
+    "x": 1265,
+    "y": 1310,
+    "sheet": 2,
+    "kind": "corridor",
+    "connections": ["node-maint-top", "node-p2-field-east", "node-maint-disp"]
+  },
+  {
+    "id": "node-maint-disp",
+    "name": "Dispensary Corridor",
+    "x": 1265,
+    "y": 1397,
+    "sheet": 2,
+    "kind": "corridor",
+    "connections": ["node-maint-mid", "node-p2-field-east", "node-maint-bot"]
+  },
+  {
+    "id": "node-maint-bot",
+    "name": "H19 & Dispensary South Corridor",
+    "x": 1265,
+    "y": 1474,
+    "sheet": 2,
+    "kind": "corridor",
+    "connections": ["node-maint-disp", "node-p2-field-east", "node-bb-c1-e"]
+  },
+  {
+    "id": "node-bb-west-approach",
+    "name": "Engineering Block West Approach",
+    "x": 465,
+    "y": 1696,
+    "sheet": 2,
+    "kind": "junction",
+    "connections": ["node-entrance", "node-exit", "node-p2-field-south", "node-bb-c1-w", "node-bb-c2-w"]
+  },
+  {
+    "id": "node-bb-c1-w",
+    "name": "Building B North Corridor (West / C1-EB1)",
+    "x": 576,
+    "y": 1696,
+    "sheet": 2,
+    "kind": "corridor",
+    "connections": ["node-bb-west-approach", "node-bb-c1-m1", "node-bb-c2-w"]
+  },
+  {
+    "id": "node-bb-c1-m1",
+    "name": "Building B North Corridor (Center-West / Building & Civil)",
+    "x": 697,
+    "y": 1696,
+    "sheet": 2,
+    "kind": "corridor",
+    "connections": ["node-bb-c1-w", "node-bb-c1-m2", "node-bb-c2-m1", "node-p2-field-south"]
+  },
+  {
+    "id": "node-bb-c1-m2",
+    "name": "Building B North Corridor (Center-East / Electrical)",
+    "x": 910,
+    "y": 1696,
+    "sheet": 2,
+    "kind": "corridor",
+    "connections": ["node-bb-c1-m1", "node-bb-c1-e", "node-bb-c2-m2"]
+  },
+  {
+    "id": "node-bb-c1-e",
+    "name": "Building B North Corridor (East / Guidance)",
+    "x": 1035,
+    "y": 1696,
+    "sheet": 2,
+    "kind": "corridor",
+    "connections": ["node-bb-c1-m2", "node-bb-c2-e", "node-p2-field-south", "node-maint-bot"]
+  },
+  {
+    "id": "node-bb-c2-w",
+    "name": "Building B South Corridor (West / Electric Workshop)",
+    "x": 576,
+    "y": 1806,
+    "sheet": 2,
+    "kind": "corridor",
+    "connections": ["node-bb-west-approach", "node-bb-c1-w", "node-bb-c2-m1", "node-bb-south-w"]
+  },
+  {
+    "id": "node-bb-c2-m1",
+    "name": "Building B South Corridor (Center / EW)",
+    "x": 680,
+    "y": 1806,
+    "sheet": 2,
+    "kind": "corridor",
+    "connections": ["node-bb-c2-w", "node-bb-c1-m1", "node-bb-c2-m2", "node-bb-south-m"]
+  },
+  {
+    "id": "node-bb-c2-m2",
+    "name": "Building B South Corridor (East / Automotive)",
+    "x": 892,
+    "y": 1806,
+    "sheet": 2,
+    "kind": "corridor",
+    "connections": ["node-bb-c2-m1", "node-bb-c1-m2", "node-bb-c2-e", "node-bb-south-e"]
+  },
+  {
+    "id": "node-bb-c2-e",
+    "name": "Building B South Corridor (Far East)",
+    "x": 1035,
+    "y": 1806,
+    "sheet": 2,
+    "kind": "corridor",
+    "connections": ["node-bb-c2-m2", "node-bb-c1-e", "node-bb-south-e"]
+  },
+  {
+    "id": "node-bb-south-w",
+    "name": "Between Building B & C (West)",
+    "x": 600,
+    "y": 1904,
+    "sheet": 2,
+    "kind": "outdoor",
+    "connections": ["node-bb-c2-w", "node-bb-south-m", "node-bc-corridor-w"]
+  },
+  {
+    "id": "node-bb-south-m",
+    "name": "Between Building B & C (Center)",
+    "x": 815,
+    "y": 1904,
+    "sheet": 2,
+    "kind": "outdoor",
+    "connections": ["node-bb-c2-m1", "node-bb-south-w", "node-bb-south-e", "node-bc-corridor-m"]
+  },
+  {
+    "id": "node-bb-south-e",
+    "name": "Between Building B & C (East)",
+    "x": 1000,
+    "y": 1904,
+    "sheet": 2,
+    "kind": "outdoor",
+    "connections": ["node-bb-c2-m2", "node-bb-c2-e", "node-bb-south-m", "node-bc-corridor-e"]
+  },
+  {
+    "id": "node-bc-corridor-w",
+    "name": "Building C Central Corridor (West)",
+    "x": 600,
+    "y": 2046,
+    "sheet": 2,
+    "kind": "corridor",
+    "connections": ["node-bb-south-w", "node-bc-corridor-m"]
+  },
+  {
+    "id": "node-bc-corridor-m",
+    "name": "Building C Central Corridor (Center)",
+    "x": 818,
+    "y": 2046,
+    "sheet": 2,
+    "kind": "corridor",
+    "connections": ["node-bc-corridor-w", "node-bc-corridor-e", "node-bb-south-m"]
+  },
+  {
+    "id": "node-bc-corridor-e",
+    "name": "Building C Central Corridor (East)",
+    "x": 1035,
+    "y": 2046,
+    "sheet": 2,
+    "kind": "corridor",
+    "connections": ["node-bc-corridor-m", "node-bb-south-e"]
+  }
+]

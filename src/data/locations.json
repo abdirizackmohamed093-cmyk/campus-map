@@ -1,0 +1,1868 @@
+[
+  {
+    "id": "h18",
+    "name": "H18",
+    "shortLabel": "H18",
+    "type": "classroom",
+    "building": "Block H-North",
+    "sheet": 1,
+    "x": 35,
+    "y": 45,
+    "width": 58,
+    "height": 48,
+    "connections": [
+      "access-h18"
+    ],
+    "colorScheme": "blue-wood"
+  },
+  {
+    "id": "h17",
+    "name": "H17",
+    "shortLabel": "H17",
+    "type": "classroom",
+    "building": "Block H-North",
+    "sheet": 1,
+    "x": 93,
+    "y": 45,
+    "width": 58,
+    "height": 48,
+    "connections": [
+      "access-h17"
+    ],
+    "colorScheme": "blue-wood"
+  },
+  {
+    "id": "h16",
+    "name": "H16",
+    "shortLabel": "H16",
+    "type": "classroom",
+    "building": "Block H-North",
+    "sheet": 1,
+    "x": 151,
+    "y": 45,
+    "width": 58,
+    "height": 48,
+    "connections": [
+      "access-h16"
+    ],
+    "colorScheme": "blue-wood"
+  },
+  {
+    "id": "h15",
+    "name": "H15",
+    "shortLabel": "H15",
+    "type": "classroom",
+    "building": "Block H-North",
+    "sheet": 1,
+    "x": 209,
+    "y": 45,
+    "width": 58,
+    "height": 48,
+    "connections": [
+      "access-h15"
+    ],
+    "colorScheme": "blue-wood"
+  },
+  {
+    "id": "h11",
+    "name": "H11",
+    "shortLabel": "H11",
+    "type": "classroom",
+    "building": "Block H-North",
+    "sheet": 1,
+    "x": 35,
+    "y": 93,
+    "width": 58,
+    "height": 48,
+    "connections": [
+      "access-h11"
+    ],
+    "colorScheme": "blue-wood"
+  },
+  {
+    "id": "h12",
+    "name": "H12",
+    "shortLabel": "H12",
+    "type": "classroom",
+    "building": "Block H-North",
+    "sheet": 1,
+    "x": 93,
+    "y": 93,
+    "width": 58,
+    "height": 48,
+    "connections": [
+      "access-h12"
+    ],
+    "colorScheme": "blue-wood"
+  },
+  {
+    "id": "h13",
+    "name": "H13",
+    "shortLabel": "H13",
+    "type": "classroom",
+    "building": "Block H-North",
+    "sheet": 1,
+    "x": 151,
+    "y": 93,
+    "width": 58,
+    "height": 48,
+    "connections": [
+      "access-h13"
+    ],
+    "colorScheme": "blue-wood"
+  },
+  {
+    "id": "h14",
+    "name": "H14",
+    "shortLabel": "H14",
+    "type": "classroom",
+    "building": "Block H-North",
+    "sheet": 1,
+    "x": 209,
+    "y": 93,
+    "width": 58,
+    "height": 48,
+    "connections": [
+      "access-h14"
+    ],
+    "colorScheme": "blue-wood"
+  },
+  {
+    "id": "h10-upper-bay",
+    "name": "UNCONFIRMED: H10 Upper Bay (Unlabeled)",
+    "shortLabel": "Bay 1",
+    "type": "other",
+    "building": "Block H-Mid-Upper",
+    "sheet": 1,
+    "x": 35,
+    "y": 195,
+    "width": 58,
+    "height": 46,
+    "connections": [],
+    "unconfirmed": true,
+    "visualReading": "Unlabeled compartment above H10",
+    "verificationNote": "Top row of the H10–H7 block has no text label and no red route entrance spur.",
+    "colorScheme": "tan-wood"
+  },
+  {
+    "id": "h9-upper-bay",
+    "name": "UNCONFIRMED: H9 Upper Bay (Unlabeled)",
+    "shortLabel": "Bay 2",
+    "type": "other",
+    "building": "Block H-Mid-Upper",
+    "sheet": 1,
+    "x": 93,
+    "y": 195,
+    "width": 58,
+    "height": 46,
+    "connections": [],
+    "unconfirmed": true,
+    "visualReading": "Unlabeled compartment above H9",
+    "verificationNote": "Top row of the H10–H7 block above H9; no red route spur mapped.",
+    "colorScheme": "tan-wood"
+  },
+  {
+    "id": "h8-upper-bay",
+    "name": "UNCONFIRMED: H8 Upper Bay (Unlabeled)",
+    "shortLabel": "Bay 3",
+    "type": "other",
+    "building": "Block H-Mid-Upper",
+    "sheet": 1,
+    "x": 151,
+    "y": 195,
+    "width": 58,
+    "height": 46,
+    "connections": [],
+    "unconfirmed": true,
+    "visualReading": "Unlabeled compartment above H8",
+    "verificationNote": "Top row of the H10–H7 block above H8; no red route spur mapped.",
+    "colorScheme": "tan-wood"
+  },
+  {
+    "id": "h7-upper-bay",
+    "name": "UNCONFIRMED: H7 Upper Bay (Unlabeled)",
+    "shortLabel": "Bay 4",
+    "type": "other",
+    "building": "Block H-Mid-Upper",
+    "sheet": 1,
+    "x": 209,
+    "y": 195,
+    "width": 58,
+    "height": 46,
+    "connections": [],
+    "unconfirmed": true,
+    "visualReading": "Unlabeled compartment above H7",
+    "verificationNote": "Top row of the H10–H7 block above H7; no red route spur mapped.",
+    "colorScheme": "tan-wood"
+  },
+  {
+    "id": "h10",
+    "name": "H10",
+    "shortLabel": "H10",
+    "type": "classroom",
+    "building": "Block H-Mid-Upper",
+    "sheet": 1,
+    "x": 35,
+    "y": 241,
+    "width": 58,
+    "height": 46,
+    "connections": [
+      "access-h10"
+    ],
+    "colorScheme": "tan-wood"
+  },
+  {
+    "id": "h9",
+    "name": "H9",
+    "shortLabel": "H9",
+    "type": "classroom",
+    "building": "Block H-Mid-Upper",
+    "sheet": 1,
+    "x": 93,
+    "y": 241,
+    "width": 58,
+    "height": 46,
+    "connections": [
+      "access-h9"
+    ],
+    "unconfirmed": true,
+    "visualReading": "H9 (or H4)",
+    "verificationNote": "Located between H10 and H8; sequential numbering H10-H9-H8-H7 suggests H9.",
+    "colorScheme": "tan-wood"
+  },
+  {
+    "id": "h8",
+    "name": "H8",
+    "shortLabel": "H8",
+    "type": "classroom",
+    "building": "Block H-Mid-Upper",
+    "sheet": 1,
+    "x": 151,
+    "y": 241,
+    "width": 58,
+    "height": 46,
+    "connections": [
+      "access-h8"
+    ],
+    "colorScheme": "tan-wood"
+  },
+  {
+    "id": "h7",
+    "name": "H7",
+    "shortLabel": "H7",
+    "type": "classroom",
+    "building": "Block H-Mid-Upper",
+    "sheet": 1,
+    "x": 209,
+    "y": 241,
+    "width": 58,
+    "height": 46,
+    "connections": [
+      "access-h7"
+    ],
+    "colorScheme": "tan-wood"
+  },
+  {
+    "id": "h5",
+    "name": "H5",
+    "shortLabel": "H5",
+    "type": "classroom",
+    "building": "Block H-Mid-Lower",
+    "sheet": 1,
+    "x": 45,
+    "y": 330,
+    "width": 88,
+    "height": 92,
+    "connections": [
+      "access-h5"
+    ],
+    "colorScheme": "tan-wood"
+  },
+  {
+    "id": "h6",
+    "name": "H6",
+    "shortLabel": "H6",
+    "type": "classroom",
+    "building": "Block H-Mid-Lower",
+    "sheet": 1,
+    "x": 141,
+    "y": 330,
+    "width": 88,
+    "height": 92,
+    "connections": [
+      "access-h6"
+    ],
+    "colorScheme": "tan-wood"
+  },
+  {
+    "id": "h1",
+    "name": "H1",
+    "shortLabel": "H1",
+    "type": "classroom",
+    "building": "Block H-South",
+    "sheet": 1,
+    "x": 35,
+    "y": 468,
+    "width": 56,
+    "height": 64,
+    "connections": [
+      "access-h1"
+    ],
+    "colorScheme": "white-outline"
+  },
+  {
+    "id": "h2",
+    "name": "H2",
+    "shortLabel": "H2",
+    "type": "classroom",
+    "building": "Block H-South",
+    "sheet": 1,
+    "x": 91,
+    "y": 468,
+    "width": 56,
+    "height": 64,
+    "connections": [
+      "access-h2"
+    ],
+    "colorScheme": "white-outline"
+  },
+  {
+    "id": "h3",
+    "name": "H3",
+    "shortLabel": "H3",
+    "type": "classroom",
+    "building": "Block H-South",
+    "sheet": 1,
+    "x": 147,
+    "y": 468,
+    "width": 46,
+    "height": 64,
+    "connections": [
+      "access-h3"
+    ],
+    "colorScheme": "white-outline"
+  },
+  {
+    "id": "h4",
+    "name": "H4",
+    "shortLabel": "H4",
+    "type": "classroom",
+    "building": "Block H-South",
+    "sheet": 1,
+    "x": 193,
+    "y": 468,
+    "width": 46,
+    "height": 64,
+    "connections": [
+      "access-h4"
+    ],
+    "colorScheme": "white-outline"
+  },
+  {
+    "id": "csa1-hblock",
+    "name": "UNCONFIRMED: C$A1 (H1–H4 East End)",
+    "shortLabel": "C$A1",
+    "type": "other",
+    "building": "Block H-South",
+    "sheet": 1,
+    "x": 239,
+    "y": 468,
+    "width": 52,
+    "height": 64,
+    "connections": [
+      "access-csa1-hblock"
+    ],
+    "unconfirmed": true,
+    "visualReading": "C $ A1",
+    "verificationNote": "Handwritten vertically at the right end of the H1–H4 block as 'C $ A1'.",
+    "colorScheme": "white-outline"
+  },
+  {
+    "id": "homestead",
+    "name": "HOMESTEAD",
+    "shortLabel": "HOMESTEAD",
+    "type": "landmark",
+    "building": "Homestead Enclosure",
+    "sheet": 1,
+    "x": 25,
+    "y": 555,
+    "width": 295,
+    "height": 250,
+    "connections": [],
+    "verificationNote": "No approved red walking route enters the Homestead compound on the updated map.",
+    "colorScheme": "white-outline"
+  },
+  {
+    "id": "assessment-office",
+    "name": "UNCONFIRMED: Assessment Office / Service Point",
+    "shortLabel": "Assessment / Service",
+    "type": "office",
+    "building": "Admin Cluster",
+    "sheet": 1,
+    "x": 250,
+    "y": 815,
+    "width": 84,
+    "height": 42,
+    "connections": [
+      "access-assessment"
+    ],
+    "unconfirmed": true,
+    "visualReading": "Assessment office Service point",
+    "verificationNote": "Small red handwriting over a purple rectangle above Procurement.",
+    "colorScheme": "purple"
+  },
+  {
+    "id": "procurement",
+    "name": "Procurement",
+    "shortLabel": "Procurement",
+    "type": "office",
+    "building": "Admin Cluster",
+    "sheet": 1,
+    "x": 250,
+    "y": 866,
+    "width": 64,
+    "height": 52,
+    "connections": [
+      "access-procurement"
+    ],
+    "colorScheme": "dark-blue"
+  },
+  {
+    "id": "admin-blue-unlabeled",
+    "name": "UNCONFIRMED: Unlabeled Blue Room (Next to Procurement)",
+    "shortLabel": "Admin Annex",
+    "type": "office",
+    "building": "Admin Cluster",
+    "sheet": 1,
+    "x": 324,
+    "y": 866,
+    "width": 64,
+    "height": 52,
+    "connections": [
+      "access-admin-blue"
+    ],
+    "unconfirmed": true,
+    "visualReading": "[Unlabeled blue square]",
+    "verificationNote": "Blue square located between Procurement and Board Room with a red entrance spur at bottom.",
+    "colorScheme": "dark-blue"
+  },
+  {
+    "id": "board-room",
+    "name": "Board Room",
+    "shortLabel": "Board Room",
+    "type": "office",
+    "building": "Admin Cluster",
+    "sheet": 1,
+    "x": 455,
+    "y": 868,
+    "width": 68,
+    "height": 50,
+    "connections": [
+      "access-board-room"
+    ],
+    "colorScheme": "dark-blue"
+  },
+  {
+    "id": "registrar",
+    "name": "Registrar",
+    "shortLabel": "Registrar",
+    "type": "office",
+    "building": "Admin Cluster",
+    "sheet": 1,
+    "x": 115,
+    "y": 872,
+    "width": 112,
+    "height": 52,
+    "connections": [
+      "access-registrar"
+    ],
+    "colorScheme": "black-orange"
+  },
+  {
+    "id": "customer-care",
+    "name": "Customer Care",
+    "shortLabel": "Customer Care",
+    "type": "office",
+    "building": "Admin Cluster",
+    "sheet": 1,
+    "x": 115,
+    "y": 930,
+    "width": 112,
+    "height": 52,
+    "connections": [
+      "access-customer-care"
+    ],
+    "colorScheme": "black-orange"
+  },
+  {
+    "id": "g1",
+    "name": "G1",
+    "shortLabel": "G1",
+    "type": "classroom",
+    "building": "Block G",
+    "sheet": 1,
+    "x": 410,
+    "y": 68,
+    "width": 80,
+    "height": 74,
+    "connections": [
+      "access-g1"
+    ],
+    "colorScheme": "pink"
+  },
+  {
+    "id": "g2",
+    "name": "G2",
+    "shortLabel": "G2",
+    "type": "classroom",
+    "building": "Block G",
+    "sheet": 1,
+    "x": 490,
+    "y": 68,
+    "width": 96,
+    "height": 74,
+    "connections": [
+      "access-g2"
+    ],
+    "colorScheme": "pink"
+  },
+  {
+    "id": "g3",
+    "name": "G3",
+    "shortLabel": "G3",
+    "type": "classroom",
+    "building": "Block G",
+    "sheet": 1,
+    "x": 586,
+    "y": 68,
+    "width": 96,
+    "height": 74,
+    "connections": [
+      "access-g3"
+    ],
+    "colorScheme": "pink"
+  },
+  {
+    "id": "g4",
+    "name": "G4",
+    "shortLabel": "G4",
+    "type": "classroom",
+    "building": "Block G",
+    "sheet": 1,
+    "x": 682,
+    "y": 68,
+    "width": 62,
+    "height": 74,
+    "connections": [
+      "access-g4"
+    ],
+    "colorScheme": "pink"
+  },
+  {
+    "id": "g4-blue-annex",
+    "name": "UNCONFIRMED: G4 (Dark Blue Block)",
+    "shortLabel": "G4 (Blue)",
+    "type": "classroom",
+    "building": "Block G Annex",
+    "sheet": 1,
+    "x": 380,
+    "y": 175,
+    "width": 60,
+    "height": 78,
+    "connections": [
+      "access-g4-blue"
+    ],
+    "unconfirmed": true,
+    "visualReading": "G4",
+    "verificationNote": "Dark blue rounded square below G1 also labeled 'G4' in red text.",
+    "colorScheme": "dark-blue"
+  },
+  {
+    "id": "csa1-yellow",
+    "name": "UNCONFIRMED: C$A1 (Yellow Block)",
+    "shortLabel": "C$A1",
+    "type": "classroom",
+    "building": "Block C$A",
+    "sheet": 1,
+    "x": 410,
+    "y": 310,
+    "width": 62,
+    "height": 64,
+    "connections": [
+      "access-csa1-yellow"
+    ],
+    "unconfirmed": true,
+    "visualReading": "C$A1",
+    "verificationNote": "Written in red on left compartment of yellow block as 'C$A1'.",
+    "colorScheme": "yellow"
+  },
+  {
+    "id": "csa-middle-yellow",
+    "name": "UNCONFIRMED: Yellow Block Middle Room",
+    "shortLabel": "C$A Mid",
+    "type": "other",
+    "building": "Block C$A",
+    "sheet": 1,
+    "x": 472,
+    "y": 310,
+    "width": 66,
+    "height": 64,
+    "connections": [],
+    "unconfirmed": true,
+    "visualReading": "[Unlabeled yellow room]",
+    "verificationNote": "Middle compartment between C$A1 and C$A2 in the yellow block; no red route spur mapped.",
+    "colorScheme": "yellow"
+  },
+  {
+    "id": "csa2-yellow",
+    "name": "UNCONFIRMED: C$A2",
+    "shortLabel": "C$A2",
+    "type": "classroom",
+    "building": "Block C$A",
+    "sheet": 1,
+    "x": 538,
+    "y": 310,
+    "width": 87,
+    "height": 64,
+    "connections": [
+      "access-csa2-yellow"
+    ],
+    "unconfirmed": true,
+    "visualReading": "C$A2",
+    "verificationNote": "Written in red on right compartment of yellow block as 'C$A2'.",
+    "colorScheme": "yellow"
+  },
+  {
+    "id": "hospitality-main",
+    "name": "UNCONFIRMED: Hospitality Building Main Section",
+    "shortLabel": "Hospitality Wing",
+    "type": "hall",
+    "building": "Hospitality Block",
+    "sheet": 1,
+    "x": 340,
+    "y": 428,
+    "width": 192,
+    "height": 100,
+    "connections": [],
+    "unconfirmed": true,
+    "visualReading": "[Unlabeled grey section]",
+    "verificationNote": "Large grey main compartment to the left of Accommodation; no red route spur mapped.",
+    "colorScheme": "grey"
+  },
+  {
+    "id": "hospitality-south-bay",
+    "name": "UNCONFIRMED: Hospitality South Bay",
+    "shortLabel": "Hosp. South",
+    "type": "other",
+    "building": "Hospitality Block",
+    "sheet": 1,
+    "x": 340,
+    "y": 528,
+    "width": 192,
+    "height": 55,
+    "connections": [],
+    "unconfirmed": true,
+    "visualReading": "[Unlabeled lower strip]",
+    "verificationNote": "Lower horizontal strip beneath the main grey Hospitality section; no red route spur mapped.",
+    "colorScheme": "white-outline"
+  },
+  {
+    "id": "accommodation",
+    "name": "Accommodation",
+    "shortLabel": "Accommodation",
+    "type": "other",
+    "building": "Hospitality Block",
+    "sheet": 1,
+    "x": 532,
+    "y": 428,
+    "width": 78,
+    "height": 100,
+    "connections": [
+      "access-accommodation"
+    ],
+    "colorScheme": "grey"
+  },
+  {
+    "id": "hod-hospitality",
+    "name": "HOD Hospitality",
+    "shortLabel": "HOD Hospitality",
+    "type": "office",
+    "building": "Hospitality Block",
+    "sheet": 1,
+    "x": 532,
+    "y": 528,
+    "width": 78,
+    "height": 55,
+    "connections": [
+      "access-hod-hospitality"
+    ],
+    "colorScheme": "white-outline"
+  },
+  {
+    "id": "mosque",
+    "name": "Mosque",
+    "shortLabel": "Mosque",
+    "type": "mosque",
+    "building": "Mosque",
+    "sheet": 1,
+    "x": 915,
+    "y": 52,
+    "width": 105,
+    "height": 64,
+    "connections": [
+      "access-mosque"
+    ],
+    "colorScheme": "orange"
+  },
+  {
+    "id": "f1",
+    "name": "F1",
+    "shortLabel": "F1",
+    "type": "classroom",
+    "building": "Block F",
+    "sheet": 1,
+    "x": 1065,
+    "y": 48,
+    "width": 68,
+    "height": 74,
+    "connections": [
+      "access-f1"
+    ],
+    "colorScheme": "orange"
+  },
+  {
+    "id": "f2",
+    "name": "F2",
+    "shortLabel": "F2",
+    "type": "classroom",
+    "building": "Block F",
+    "sheet": 1,
+    "x": 1133,
+    "y": 48,
+    "width": 132,
+    "height": 74,
+    "connections": [
+      "access-f2"
+    ],
+    "colorScheme": "orange"
+  },
+  {
+    "id": "f3",
+    "name": "F3",
+    "shortLabel": "F3",
+    "type": "classroom",
+    "building": "Block F",
+    "sheet": 1,
+    "x": 1265,
+    "y": 48,
+    "width": 73,
+    "height": 74,
+    "connections": [
+      "access-f3"
+    ],
+    "colorScheme": "orange"
+  },
+  {
+    "id": "bldg-a-nw-unlabeled",
+    "name": "UNCONFIRMED: Building A - Top-Left Room",
+    "shortLabel": "A-NW",
+    "type": "other",
+    "building": "Building A (ICT & Library Block)",
+    "sheet": 1,
+    "x": 850,
+    "y": 145,
+    "width": 108,
+    "height": 75,
+    "connections": [
+      "access-bldg-a-nw"
+    ],
+    "unconfirmed": true,
+    "visualReading": "[Unlabeled room left of ICT Lab 1]",
+    "verificationNote": "Top-left room of Purple Building A, directly above Ladies Toilet.",
+    "colorScheme": "purple"
+  },
+  {
+    "id": "ict-lab-1",
+    "name": "ICT Lab 1",
+    "shortLabel": "ICT Lab 1",
+    "type": "laboratory",
+    "building": "Building A (ICT & Library Block)",
+    "sheet": 1,
+    "x": 966,
+    "y": 145,
+    "width": 144,
+    "height": 75,
+    "connections": [
+      "access-ict-lab-1"
+    ],
+    "colorScheme": "purple"
+  },
+  {
+    "id": "ict-lab-2",
+    "name": "ICT Lab 2",
+    "shortLabel": "ICT Lab 2",
+    "type": "laboratory",
+    "building": "Building A (ICT & Library Block)",
+    "sheet": 1,
+    "x": 1110,
+    "y": 145,
+    "width": 105,
+    "height": 75,
+    "connections": [
+      "access-ict-lab-2"
+    ],
+    "colorScheme": "purple"
+  },
+  {
+    "id": "a9",
+    "name": "A9",
+    "shortLabel": "A9",
+    "type": "classroom",
+    "building": "Building A (ICT & Library Block)",
+    "sheet": 1,
+    "x": 1223,
+    "y": 145,
+    "width": 86,
+    "height": 75,
+    "connections": [
+      "access-a9"
+    ],
+    "colorScheme": "purple"
+  },
+  {
+    "id": "a10",
+    "name": "A10",
+    "shortLabel": "A10",
+    "type": "classroom",
+    "building": "Building A (ICT & Library Block)",
+    "sheet": 1,
+    "x": 1309,
+    "y": 145,
+    "width": 65,
+    "height": 75,
+    "connections": [
+      "access-a10"
+    ],
+    "colorScheme": "purple"
+  },
+  {
+    "id": "bldg-a-ne-unlabeled",
+    "name": "UNCONFIRMED: Building A - Top-Right Room",
+    "shortLabel": "A-NE",
+    "type": "other",
+    "building": "Building A (ICT & Library Block)",
+    "sheet": 1,
+    "x": 1382,
+    "y": 145,
+    "width": 28,
+    "height": 75,
+    "connections": [
+      "access-bldg-a-ne"
+    ],
+    "unconfirmed": true,
+    "visualReading": "[Unlabeled room right of A10]",
+    "verificationNote": "Narrow compartment at the top-right corner of Purple Building A.",
+    "colorScheme": "purple"
+  },
+  {
+    "id": "ladies-toilet",
+    "name": "Ladies Toilet",
+    "shortLabel": "Ladies Toilet",
+    "type": "toilet",
+    "building": "Building A (ICT & Library Block)",
+    "sheet": 1,
+    "x": 850,
+    "y": 230,
+    "width": 108,
+    "height": 82,
+    "connections": [
+      "access-ladies-toilet"
+    ],
+    "colorScheme": "purple"
+  },
+  {
+    "id": "a4-hod-fashion",
+    "name": "UNCONFIRMED: A4 / HOD Fashion",
+    "shortLabel": "A4 HOD Fashion",
+    "type": "office",
+    "building": "Building A (ICT & Library Block)",
+    "sheet": 1,
+    "x": 966,
+    "y": 230,
+    "width": 88,
+    "height": 82,
+    "connections": [
+      "access-a4-hod-fashion"
+    ],
+    "unconfirmed": true,
+    "visualReading": "A4 HOD Fashio",
+    "verificationNote": "Handwritten in three lines: 'A4 / HOD / Fashio'.",
+    "colorScheme": "purple"
+  },
+  {
+    "id": "bldg-a-mid-unlabeled-1",
+    "name": "UNCONFIRMED: Building A - Middle Room (Between A4 & Library)",
+    "shortLabel": "A-Mid 1",
+    "type": "classroom",
+    "building": "Building A (ICT & Library Block)",
+    "sheet": 1,
+    "x": 1062,
+    "y": 230,
+    "width": 80,
+    "height": 82,
+    "connections": [
+      "access-bldg-a-mid-1"
+    ],
+    "unconfirmed": true,
+    "visualReading": "[Unlabeled room between A4 HOD Fashion and Library]",
+    "verificationNote": "Compartment in the middle row of Building A with no text label.",
+    "colorScheme": "purple"
+  },
+  {
+    "id": "library",
+    "name": "Library",
+    "shortLabel": "Library",
+    "type": "landmark",
+    "building": "Building A (ICT & Library Block)",
+    "sheet": 1,
+    "x": 1150,
+    "y": 230,
+    "width": 88,
+    "height": 82,
+    "connections": [
+      "access-library"
+    ],
+    "colorScheme": "purple"
+  },
+  {
+    "id": "bldg-a-mid-unlabeled-2",
+    "name": "UNCONFIRMED: Building A - Middle East Room (Right of Library)",
+    "shortLabel": "A-Mid 2",
+    "type": "classroom",
+    "building": "Building A (ICT & Library Block)",
+    "sheet": 1,
+    "x": 1246,
+    "y": 230,
+    "width": 92,
+    "height": 82,
+    "connections": [
+      "access-bldg-a-mid-2"
+    ],
+    "unconfirmed": true,
+    "visualReading": "[Unlabeled room right of Library]",
+    "verificationNote": "Compartment immediately east of the Library in Building A.",
+    "colorScheme": "purple"
+  },
+  {
+    "id": "bldg-a-mid-unlabeled-3",
+    "name": "UNCONFIRMED: Building A - Far East Middle Room",
+    "shortLabel": "A-Mid 3",
+    "type": "other",
+    "building": "Building A (ICT & Library Block)",
+    "sheet": 1,
+    "x": 1346,
+    "y": 230,
+    "width": 64,
+    "height": 82,
+    "connections": [
+      "access-bldg-a-mid-3"
+    ],
+    "unconfirmed": true,
+    "visualReading": "[Unlabeled far-right middle room]",
+    "verificationNote": "Far-east compartment on the middle row of Building A.",
+    "colorScheme": "purple"
+  },
+  {
+    "id": "mens-toilet",
+    "name": "Mens Toilet",
+    "shortLabel": "Mens Toilet",
+    "type": "toilet",
+    "building": "Building A (ICT & Library Block)",
+    "sheet": 1,
+    "x": 850,
+    "y": 322,
+    "width": 94,
+    "height": 81,
+    "connections": [
+      "access-mens-toilet"
+    ],
+    "colorScheme": "purple"
+  },
+  {
+    "id": "clothing-technology",
+    "name": "Clothing Technology",
+    "shortLabel": "Clothing Tech",
+    "type": "workshop",
+    "building": "Building A (ICT & Library Block)",
+    "sheet": 1,
+    "x": 952,
+    "y": 322,
+    "width": 124,
+    "height": 81,
+    "connections": [
+      "access-clothing-tech"
+    ],
+    "colorScheme": "purple"
+  },
+  {
+    "id": "bldg-a-south-unlabeled-1",
+    "name": "UNCONFIRMED: Building A - South Center Room",
+    "shortLabel": "A-South 1",
+    "type": "classroom",
+    "building": "Building A (ICT & Library Block)",
+    "sheet": 1,
+    "x": 1084,
+    "y": 322,
+    "width": 122,
+    "height": 81,
+    "connections": [
+      "access-bldg-a-south-1"
+    ],
+    "unconfirmed": true,
+    "visualReading": "[Unlabeled room right of Clothing Technology]",
+    "verificationNote": "Bottom-row center compartment in Building A.",
+    "colorScheme": "purple"
+  },
+  {
+    "id": "bldg-a-south-unlabeled-2",
+    "name": "UNCONFIRMED: Building A - South East Room",
+    "shortLabel": "A-South 2",
+    "type": "classroom",
+    "building": "Building A (ICT & Library Block)",
+    "sheet": 1,
+    "x": 1214,
+    "y": 322,
+    "width": 102,
+    "height": 81,
+    "connections": [
+      "access-bldg-a-south-2"
+    ],
+    "unconfirmed": true,
+    "visualReading": "[Unlabeled room below Library]",
+    "verificationNote": "Bottom-row east compartment in Building A.",
+    "colorScheme": "purple"
+  },
+  {
+    "id": "bldg-a-south-unlabeled-3",
+    "name": "UNCONFIRMED: Building A - South Far-East Room",
+    "shortLabel": "A-South 3",
+    "type": "other",
+    "building": "Building A (ICT & Library Block)",
+    "sheet": 1,
+    "x": 1324,
+    "y": 322,
+    "width": 86,
+    "height": 81,
+    "connections": [
+      "access-bldg-a-south-3"
+    ],
+    "unconfirmed": true,
+    "visualReading": "[Unlabeled bottom-right room]",
+    "verificationNote": "Bottom-right corner compartment in Building A.",
+    "colorScheme": "purple"
+  },
+  {
+    "id": "carpentry-and-workshop",
+    "name": "Carpentry and Workshop",
+    "shortLabel": "Carpentry & Workshop",
+    "type": "workshop",
+    "building": "Carpentry Block",
+    "sheet": 1,
+    "x": 965,
+    "y": 490,
+    "width": 380,
+    "height": 64,
+    "connections": [
+      "access-carpentry-w",
+      "access-carpentry-e"
+    ],
+    "colorScheme": "peach"
+  },
+  {
+    "id": "masonry",
+    "name": "Masonry",
+    "shortLabel": "Masonry",
+    "type": "workshop",
+    "building": "Masonry Block",
+    "sheet": 1,
+    "x": 1495,
+    "y": 445,
+    "width": 78,
+    "height": 135,
+    "connections": [
+      "access-masonry"
+    ],
+    "colorScheme": "yellow"
+  },
+  {
+    "id": "field",
+    "name": "Field",
+    "shortLabel": "Field",
+    "type": "field",
+    "building": "Campus Grounds",
+    "sheet": 1,
+    "x": 675,
+    "y": 575,
+    "width": 392,
+    "height": 162,
+    "connections": [
+      "access-field-ne"
+    ],
+    "colorScheme": "field"
+  },
+  {
+    "id": "kitchen",
+    "name": "Kitchen",
+    "shortLabel": "Kitchen",
+    "type": "kitchen",
+    "building": "Dining & Sports Block",
+    "sheet": 1,
+    "x": 1082,
+    "y": 620,
+    "width": 112,
+    "height": 28,
+    "connections": [
+      "access-kitchen"
+    ],
+    "colorScheme": "white-outline"
+  },
+  {
+    "id": "d-hall",
+    "name": "D. HALL",
+    "shortLabel": "D. HALL",
+    "type": "hall",
+    "building": "Dining & Sports Block",
+    "sheet": 1,
+    "x": 1082,
+    "y": 648,
+    "width": 112,
+    "height": 30,
+    "connections": [
+      "access-d-hall"
+    ],
+    "colorScheme": "white-outline"
+  },
+  {
+    "id": "game-and-sport",
+    "name": "Game and Sport",
+    "shortLabel": "Game & Sport",
+    "type": "office",
+    "building": "Dining & Sports Block",
+    "sheet": 1,
+    "x": 1082,
+    "y": 678,
+    "width": 54,
+    "height": 42,
+    "connections": [
+      "access-game-sport"
+    ],
+    "colorScheme": "white-outline"
+  },
+  {
+    "id": "hod-agriculture",
+    "name": "HOD Agriculture",
+    "shortLabel": "HOD Agric.",
+    "type": "office",
+    "building": "Dining & Sports Block",
+    "sheet": 1,
+    "x": 1136,
+    "y": 678,
+    "width": 58,
+    "height": 42,
+    "connections": [
+      "access-hod-agric"
+    ],
+    "colorScheme": "white-outline"
+  },
+  {
+    "id": "d1",
+    "name": "D1",
+    "shortLabel": "D1",
+    "type": "classroom",
+    "building": "Block D",
+    "sheet": 1,
+    "x": 656,
+    "y": 762,
+    "width": 56,
+    "height": 72,
+    "connections": [
+      "access-d1"
+    ],
+    "colorScheme": "green"
+  },
+  {
+    "id": "d2",
+    "name": "D2",
+    "shortLabel": "D2",
+    "type": "classroom",
+    "building": "Block D",
+    "sheet": 1,
+    "x": 712,
+    "y": 762,
+    "width": 56,
+    "height": 72,
+    "connections": [
+      "access-d2"
+    ],
+    "colorScheme": "green"
+  },
+  {
+    "id": "d3",
+    "name": "D3",
+    "shortLabel": "D3",
+    "type": "classroom",
+    "building": "Block D",
+    "sheet": 1,
+    "x": 768,
+    "y": 762,
+    "width": 48,
+    "height": 72,
+    "connections": [
+      "access-d3"
+    ],
+    "colorScheme": "green"
+  },
+  {
+    "id": "d4",
+    "name": "D4",
+    "shortLabel": "D4",
+    "type": "classroom",
+    "building": "Block D",
+    "sheet": 1,
+    "x": 816,
+    "y": 762,
+    "width": 56,
+    "height": 72,
+    "connections": [
+      "access-d4"
+    ],
+    "colorScheme": "green"
+  },
+  {
+    "id": "d5",
+    "name": "D5",
+    "shortLabel": "D5",
+    "type": "classroom",
+    "building": "Block D",
+    "sheet": 1,
+    "x": 872,
+    "y": 762,
+    "width": 56,
+    "height": 72,
+    "connections": [
+      "access-d5"
+    ],
+    "colorScheme": "green"
+  },
+  {
+    "id": "d6",
+    "name": "D6",
+    "shortLabel": "D6",
+    "type": "classroom",
+    "building": "Block D",
+    "sheet": 1,
+    "x": 928,
+    "y": 762,
+    "width": 62,
+    "height": 72,
+    "connections": [
+      "access-d6"
+    ],
+    "colorScheme": "green"
+  },
+  {
+    "id": "d7",
+    "name": "D7",
+    "shortLabel": "D7",
+    "type": "classroom",
+    "building": "Block D",
+    "sheet": 1,
+    "x": 990,
+    "y": 762,
+    "width": 64,
+    "height": 72,
+    "connections": [
+      "access-d7"
+    ],
+    "colorScheme": "green"
+  },
+  {
+    "id": "d8",
+    "name": "D8",
+    "shortLabel": "D8",
+    "type": "classroom",
+    "building": "Block D",
+    "sheet": 1,
+    "x": 1054,
+    "y": 762,
+    "width": 48,
+    "height": 72,
+    "connections": [
+      "access-d8"
+    ],
+    "colorScheme": "green"
+  },
+  {
+    "id": "d-teal-block",
+    "name": "UNCONFIRMED: Teal Block East of D8 (Unlabeled)",
+    "shortLabel": "Teal Annex",
+    "type": "other",
+    "building": "Block D",
+    "sheet": 1,
+    "x": 1104,
+    "y": 754,
+    "width": 104,
+    "height": 88,
+    "connections": [],
+    "unconfirmed": true,
+    "visualReading": "[Unlabeled teal square next to D8]",
+    "verificationNote": "Large teal/blue rounded rectangle immediately to the right of room D8; no red entrance spur mapped.",
+    "colorScheme": "teal"
+  },
+  {
+    "id": "pay-point",
+    "name": "Pay Point",
+    "shortLabel": "Pay Point",
+    "type": "office",
+    "building": "Block K & Admin Row",
+    "sheet": 1,
+    "x": 658,
+    "y": 868,
+    "width": 60,
+    "height": 74,
+    "connections": [
+      "access-pay-point"
+    ],
+    "colorScheme": "red-brown"
+  },
+  {
+    "id": "dean-and-dp",
+    "name": "Dean and DP",
+    "shortLabel": "Dean & DP",
+    "type": "office",
+    "building": "Block K & Admin Row",
+    "sheet": 1,
+    "x": 718,
+    "y": 868,
+    "width": 48,
+    "height": 74,
+    "connections": [
+      "access-dean-dp"
+    ],
+    "colorScheme": "red-brown"
+  },
+  {
+    "id": "central-storage",
+    "name": "Central Storage",
+    "shortLabel": "Central Storage",
+    "type": "other",
+    "building": "Block K & Admin Row",
+    "sheet": 1,
+    "x": 766,
+    "y": 868,
+    "width": 54,
+    "height": 74,
+    "connections": [
+      "access-central-storage"
+    ],
+    "colorScheme": "red-brown"
+  },
+  {
+    "id": "common-room",
+    "name": "Common Room",
+    "shortLabel": "Common Room",
+    "type": "hall",
+    "building": "Block K & Admin Row",
+    "sheet": 1,
+    "x": 820,
+    "y": 868,
+    "width": 46,
+    "height": 74,
+    "connections": [
+      "access-common-room"
+    ],
+    "colorScheme": "red-brown"
+  },
+  {
+    "id": "k3",
+    "name": "K3",
+    "shortLabel": "K3",
+    "type": "classroom",
+    "building": "Block K & Admin Row",
+    "sheet": 1,
+    "x": 866,
+    "y": 868,
+    "width": 58,
+    "height": 74,
+    "connections": [
+      "access-k3"
+    ],
+    "colorScheme": "red-brown"
+  },
+  {
+    "id": "k2",
+    "name": "K2",
+    "shortLabel": "K2",
+    "type": "classroom",
+    "building": "Block K & Admin Row",
+    "sheet": 1,
+    "x": 924,
+    "y": 868,
+    "width": 56,
+    "height": 74,
+    "connections": [
+      "access-k2"
+    ],
+    "colorScheme": "red-brown"
+  },
+  {
+    "id": "k1",
+    "name": "K1",
+    "shortLabel": "K1",
+    "type": "classroom",
+    "building": "Block K & Admin Row",
+    "sheet": 1,
+    "x": 980,
+    "y": 868,
+    "width": 80,
+    "height": 74,
+    "connections": [
+      "access-k1"
+    ],
+    "colorScheme": "red-brown"
+  },
+  {
+    "id": "k-east-unlabeled-1",
+    "name": "UNCONFIRMED: K-Block East Room 1 (Unlabeled)",
+    "shortLabel": "K-East 1",
+    "type": "other",
+    "building": "Block K & Admin Row",
+    "sheet": 1,
+    "x": 1060,
+    "y": 868,
+    "width": 62,
+    "height": 74,
+    "connections": [
+      "access-k-east-1"
+    ],
+    "unconfirmed": true,
+    "visualReading": "[Unlabeled room right of K1]",
+    "verificationNote": "First unlabeled red-brown compartment to the right of K1.",
+    "colorScheme": "red-brown"
+  },
+  {
+    "id": "k-east-unlabeled-2",
+    "name": "UNCONFIRMED: K-Block East Room 2 (Unlabeled)",
+    "shortLabel": "K-East 2",
+    "type": "other",
+    "building": "Block K & Admin Row",
+    "sheet": 1,
+    "x": 1122,
+    "y": 868,
+    "width": 76,
+    "height": 74,
+    "connections": [
+      "access-k-east-2"
+    ],
+    "unconfirmed": true,
+    "visualReading": "[Unlabeled far-right room in K row]",
+    "verificationNote": "Far-right unlabeled red-brown compartment in the Pay Point / K1-K3 row.",
+    "colorScheme": "red-brown"
+  },
+  {
+    "id": "ilo-office",
+    "name": "ILO Office",
+    "shortLabel": "ILO Office",
+    "type": "office",
+    "building": "Main Gate Complex",
+    "sheet": 2,
+    "x": 112,
+    "y": 1275,
+    "width": 94,
+    "height": 68,
+    "connections": [
+      "access-ilo-office"
+    ],
+    "colorScheme": "black-orange"
+  },
+  {
+    "id": "entrance",
+    "name": "Entrance",
+    "shortLabel": "Entrance",
+    "type": "entrance",
+    "building": "Main Gate Complex",
+    "sheet": 2,
+    "x": 64,
+    "y": 1362,
+    "width": 112,
+    "height": 42,
+    "connections": [
+      "access-entrance"
+    ],
+    "colorScheme": "black-orange"
+  },
+  {
+    "id": "exit",
+    "name": "Exit",
+    "shortLabel": "Exit",
+    "type": "exit",
+    "building": "Main Gate Complex",
+    "sheet": 2,
+    "x": 76,
+    "y": 1452,
+    "width": 86,
+    "height": 42,
+    "connections": [
+      "access-exit"
+    ],
+    "colorScheme": "black-orange"
+  },
+  {
+    "id": "field-page2",
+    "name": "Field (Page 2 / South Campus View)",
+    "shortLabel": "Field",
+    "type": "field",
+    "building": "Campus Grounds",
+    "sheet": 2,
+    "x": 445,
+    "y": 1135,
+    "width": 740,
+    "height": 410,
+    "connections": [
+      "access-field-p2"
+    ],
+    "colorScheme": "field"
+  },
+  {
+    "id": "power",
+    "name": "Power",
+    "shortLabel": "Power",
+    "type": "other",
+    "building": "Maintenance & Dispensary Block",
+    "sheet": 2,
+    "x": 1282,
+    "y": 1135,
+    "width": 104,
+    "height": 84,
+    "connections": [
+      "access-power"
+    ],
+    "colorScheme": "white-outline"
+  },
+  {
+    "id": "hod-repair-maintenance",
+    "name": "UNCONFIRMED: HOD Repaire/mai (Repair & Maintenance)",
+    "shortLabel": "HOD Repair/Maint",
+    "type": "office",
+    "building": "Maintenance & Dispensary Block",
+    "sheet": 2,
+    "x": 1282,
+    "y": 1219,
+    "width": 104,
+    "height": 58,
+    "connections": [
+      "access-hod-repair"
+    ],
+    "unconfirmed": true,
+    "visualReading": "HOD Repaire/mai",
+    "verificationNote": "Handwritten label cropped at right edge: 'HOD Repaire/mai'.",
+    "colorScheme": "grey"
+  },
+  {
+    "id": "mutesy-office",
+    "name": "UNCONFIRMED: Mutesy office",
+    "shortLabel": "Mutesy Office",
+    "type": "office",
+    "building": "Maintenance & Dispensary Block",
+    "sheet": 2,
+    "x": 1330,
+    "y": 1277,
+    "width": 76,
+    "height": 64,
+    "connections": [
+      "access-mutesy"
+    ],
+    "unconfirmed": true,
+    "visualReading": "Mutesy office",
+    "verificationNote": "Handwritten below HOD Repaire/mai as 'Mutesy office'.",
+    "colorScheme": "white-outline"
+  },
+  {
+    "id": "dispensary-upper-bay",
+    "name": "UNCONFIRMED: Unlabeled Room Above Dispensary",
+    "shortLabel": "Maint. Bay",
+    "type": "other",
+    "building": "Maintenance & Dispensary Block",
+    "sheet": 2,
+    "x": 1282,
+    "y": 1341,
+    "width": 104,
+    "height": 52,
+    "connections": [],
+    "unconfirmed": true,
+    "visualReading": "[Unlabeled grey room above Dispensary]",
+    "verificationNote": "Compartment between Mutesy office and Dispensary; no red route spur mapped.",
+    "colorScheme": "grey"
+  },
+  {
+    "id": "dispensary",
+    "name": "Dispensary",
+    "shortLabel": "Dispensary",
+    "type": "other",
+    "building": "Maintenance & Dispensary Block",
+    "sheet": 2,
+    "x": 1282,
+    "y": 1401,
+    "width": 104,
+    "height": 68,
+    "connections": [
+      "access-dispensary"
+    ],
+    "colorScheme": "grey"
+  },
+  {
+    "id": "h19",
+    "name": "H19",
+    "shortLabel": "H19",
+    "type": "classroom",
+    "building": "Maintenance & Dispensary Block",
+    "sheet": 2,
+    "x": 1282,
+    "y": 1477,
+    "width": 104,
+    "height": 52,
+    "connections": [
+      "access-h19"
+    ],
+    "colorScheme": "grey"
+  },
+  {
+    "id": "c1-eb1",
+    "name": "C1 / EB1",
+    "shortLabel": "C1 / EB1",
+    "type": "classroom",
+    "building": "Building B (Engineering & Workshops Block)",
+    "sheet": 2,
+    "x": 508,
+    "y": 1600,
+    "width": 185,
+    "height": 92,
+    "connections": [
+      "access-c1-eb1"
+    ],
+    "colorScheme": "purple"
+  },
+  {
+    "id": "c2-eb2",
+    "name": "C2 / EB2",
+    "shortLabel": "C2 / EB2",
+    "type": "classroom",
+    "building": "Building B (Engineering & Workshops Block)",
+    "sheet": 2,
+    "x": 701,
+    "y": 1600,
+    "width": 312,
+    "height": 92,
+    "connections": [
+      "access-c2-eb2"
+    ],
+    "colorScheme": "purple"
+  },
+  {
+    "id": "bldg-b-ne-unlabeled",
+    "name": "UNCONFIRMED: Building B - Top-Right Room (East of C2/EB2)",
+    "shortLabel": "B-NE",
+    "type": "other",
+    "building": "Building B (Engineering & Workshops Block)",
+    "sheet": 2,
+    "x": 1064,
+    "y": 1600,
+    "width": 49,
+    "height": 92,
+    "connections": [
+      "access-bldg-b-ne"
+    ],
+    "unconfirmed": true,
+    "visualReading": "[Unlabeled room right of C2 EB2]",
+    "verificationNote": "Top-right compartment of Purple Building B, separated from C2/EB2 by two vertical blue shafts.",
+    "colorScheme": "purple"
+  },
+  {
+    "id": "hod-comp",
+    "name": "UNCONFIRMED: HOD COMP",
+    "shortLabel": "HOD COMP",
+    "type": "office",
+    "building": "Building B (Engineering & Workshops Block)",
+    "sheet": 2,
+    "x": 508,
+    "y": 1700,
+    "width": 64,
+    "height": 102,
+    "connections": [
+      "access-hod-comp"
+    ],
+    "unconfirmed": true,
+    "visualReading": "HOD COMP",
+    "verificationNote": "Handwritten in three stacked lines: 'HOD / COM / P'.",
+    "colorScheme": "purple"
+  },
+  {
+    "id": "jitume",
+    "name": "UNCONFIRMED: Jit-ume (Jitume Lab)",
+    "shortLabel": "Jitume",
+    "type": "laboratory",
+    "building": "Building B (Engineering & Workshops Block)",
+    "sheet": 2,
+    "x": 580,
+    "y": 1700,
+    "width": 72,
+    "height": 102,
+    "connections": [
+      "access-jitume"
+    ],
+    "unconfirmed": true,
+    "visualReading": "Jit-ume",
+    "verificationNote": "Handwritten in two lines: 'Jit- / ume' between HOD COMP and Building and Civil.",
+    "colorScheme": "purple"
+  },
+  {
+    "id": "building-and-civil",
+    "name": "Building and Civil",
+    "shortLabel": "Building & Civil",
+    "type": "workshop",
+    "building": "Building B (Engineering & Workshops Block)",
+    "sheet": 2,
+    "x": 660,
+    "y": 1700,
+    "width": 184,
+    "height": 102,
+    "connections": [
+      "access-building-civil"
+    ],
+    "colorScheme": "purple"
+  },
+  {
+    "id": "electrical-workshop-ew",
+    "name": "UNCONFIRMED: Electrical Worksh EW",
+    "shortLabel": "Electrical W/S EW",
+    "type": "workshop",
+    "building": "Building B (Engineering & Workshops Block)",
+    "sheet": 2,
+    "x": 852,
+    "y": 1700,
+    "width": 138,
+    "height": 102,
+    "connections": [
+      "access-electrical-ew"
+    ],
+    "unconfirmed": true,
+    "visualReading": "electrical worksh EW",
+    "verificationNote": "Handwritten in three lines: 'electrical / worksh / EW'.",
+    "colorScheme": "purple"
+  },
+  {
+    "id": "guidance-and-counselling",
+    "name": "Guidance and Counselling",
+    "shortLabel": "Guidance & Couns.",
+    "type": "office",
+    "building": "Building B (Engineering & Workshops Block)",
+    "sheet": 2,
+    "x": 998,
+    "y": 1700,
+    "width": 115,
+    "height": 102,
+    "connections": [
+      "access-guidance"
+    ],
+    "colorScheme": "purple"
+  },
+  {
+    "id": "electric-workshop",
+    "name": "Electric Workshop",
+    "shortLabel": "Electric Workshop",
+    "type": "workshop",
+    "building": "Building B (Engineering & Workshops Block)",
+    "sheet": 2,
+    "x": 508,
+    "y": 1810,
+    "width": 168,
+    "height": 82,
+    "connections": [
+      "access-electric-ws"
+    ],
+    "colorScheme": "purple"
+  },
+  {
+    "id": "ew-south",
+    "name": "UNCONFIRMED: EW (Electrical Wing South)",
+    "shortLabel": "EW",
+    "type": "workshop",
+    "building": "Building B (Engineering & Workshops Block)",
+    "sheet": 2,
+    "x": 684,
+    "y": 1810,
+    "width": 204,
+    "height": 82,
+    "connections": [
+      "access-ew-south"
+    ],
+    "unconfirmed": true,
+    "visualReading": "EW",
+    "verificationNote": "Labeled 'EW' in the bottom-center compartment of Purple Building B.",
+    "colorScheme": "purple"
+  },
+  {
+    "id": "automotive-workshop",
+    "name": "Automotive Workshop",
+    "shortLabel": "Automotive W/S",
+    "type": "workshop",
+    "building": "Building B (Engineering & Workshops Block)",
+    "sheet": 2,
+    "x": 896,
+    "y": 1810,
+    "width": 217,
+    "height": 82,
+    "connections": [
+      "access-automotive-ws"
+    ],
+    "colorScheme": "purple"
+  },
+  {
+    "id": "bldg-c-north-wing",
+    "name": "UNCONFIRMED: Building C - Upper Purple Wing (Unlabeled)",
+    "shortLabel": "Building C (North Wing)",
+    "type": "other",
+    "building": "Building C (South Purple Block)",
+    "sheet": 2,
+    "x": 554,
+    "y": 1916,
+    "width": 528,
+    "height": 126,
+    "connections": [
+      "access-bldg-c-north"
+    ],
+    "unconfirmed": true,
+    "visualReading": "[Unlabeled upper section of 3rd purple building]",
+    "verificationNote": "Third large purple building at the bottom of Page 2; split horizontally by a blue corridor arrow.",
+    "colorScheme": "purple"
+  },
+  {
+    "id": "bldg-c-south-wing",
+    "name": "UNCONFIRMED: Building C - Lower Purple Wing (Unlabeled)",
+    "shortLabel": "Building C (South Wing)",
+    "type": "other",
+    "building": "Building C (South Purple Block)",
+    "sheet": 2,
+    "x": 554,
+    "y": 2050,
+    "width": 528,
+    "height": 90,
+    "connections": [
+      "access-bldg-c-south"
+    ],
+    "unconfirmed": true,
+    "visualReading": "[Unlabeled lower section of 3rd purple building]",
+    "verificationNote": "Lower half of the third large purple building below the central blue corridor line.",
+    "colorScheme": "purple"
+  }
+]
